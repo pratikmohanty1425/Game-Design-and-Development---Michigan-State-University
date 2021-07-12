@@ -1,1 +1,1 @@
-# Game-Design-and-Development---Michigan-State-University
+# Game-Design-and-Development : Michigan-State-University
